@@ -1,2 +1,2 @@
 # Hello!
-#Im trying to learn Google machine learning!
+print('Im trying to learn Google machine learning!')
