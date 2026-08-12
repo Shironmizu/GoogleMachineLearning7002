@@ -1,1 +1,2 @@
-# GoogleMachineLearning7002
+# Hello!
+#Im trying to learn Google machine learning!
