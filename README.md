@@ -1,2 +1,2 @@
 # Hello!
-print('Im trying to learn Google machine learning!')
+# Im trying to learn machine learning through google
